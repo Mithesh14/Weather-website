@@ -15,7 +15,7 @@
 
 ![screenshots](https://github.com/Mithesh14/Weather-website/blob/main/images/image2.jpg)
 
-➡️ Some Examples 
+➡️ Some Examples ❗
 
 ![screenshots](https://github.com/Mithesh14/Weather-website/blob/main/images/image3.jpg)
 
